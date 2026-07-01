@@ -1,0 +1,19 @@
+site_name: Metis Forecasting System
+site_description: Public notes on the Metis multi-engine forecasting framework.
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Dashboard: dashboard/portfolio.md
+  - Metis:
+      - Core Overview: metis/core-overview.md
+      - Patterns:
+          - Overview: metis/patterns/index.md
+          - Pre-Event Freeze: metis/patterns/pre-event-freeze.md
+          - Candidate Registration Gate: metis/patterns/candidate-registration-gate.md
+          - History Compression Review: metis/patterns/history-compression-review.md
+          - Failure Mode Taxonomy: metis/patterns/failure-mode-taxonomy.md
+  - Reports:
+      - Index: reports/index.md
+      - Weekly 2026-W18: reports/weekly/2026-W18.md
+      - Build Log 2026-04-28: reports/build-log/2026-04-28.md
