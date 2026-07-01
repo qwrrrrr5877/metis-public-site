@@ -90,9 +90,22 @@ weekly packets, compatibility logs, pattern promotion, and portfolio review.
   </div>
 </div>
 
+
+## Latest Report
+
+<div class="report-grid featured">
+  <a class="report-card" href="reports/fomc/recent-fomc-report/">
+    <span class="report-meta">2026-07-01 / FOMC / Engine Report</span>
+    <strong>Recent FOMC Report: From April Split To June Unanimity</strong>
+    <p>A public read on how April's layered vote structure gave way to June unanimity, and what the engine learned about dissent topology.</p>
+    <em>Sanitized public report; private ledgers and active prediction internals excluded.</em>
+  </a>
+</div>
+
 ## Public Boundary
 
 The public site is intentionally selective. It shows the framework, public
 patterns, and sanitized progress reports. The private workspace remains the
 system of record for raw ledgers, evidence archives, source files, unresolved
 prediction details, and human review notes.
+
