@@ -193,3 +193,33 @@
     grid-template-columns: 1fr;
   }
 }
+
+.metis-principles {
+  border-top: 1px solid var(--metis-line);
+  display: grid;
+  gap: 0;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin: 1.2rem 0 2.4rem;
+}
+
+.metis-principles > div {
+  border-bottom: 1px solid var(--metis-line);
+  padding: 1rem 1rem 1rem 0;
+}
+
+.metis-principles strong {
+  display: block;
+  font-size: .98rem;
+  line-height: 1.35;
+}
+
+.metis-principles p {
+  color: var(--metis-muted);
+  margin: .45rem 0 0;
+}
+
+@media screen and (max-width: 760px) {
+  .metis-principles {
+    grid-template-columns: 1fr;
+  }
+}
