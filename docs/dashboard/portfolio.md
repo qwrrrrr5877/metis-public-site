@@ -1,24 +1,53 @@
-# Portfolio Dashboard
+# Portfolio
 
-Generated: 2026-07-01 12:55 UTC
+<p class="metis-section-label">Engine network</p>
 
-This public dashboard is a sanitized portfolio summary. Raw ledgers, source
-archives, private schemas, and active prediction internals are not included.
+<div class="public-note">This is a sanitized portfolio surface. Raw ledgers, source archives, private schemas, and active prediction internals are not included.</div>
 
-## Engines
+_Generated: 2026-07-01 13:51 UTC_
 
-| Engine | Family | Status | Week |
-|---|---|---|---|
-| IDN_NI | ResourceCountry | active | 2026-W18 |
-| FOMC | CentralBank | active | 2026-W25 |
-| ODAC | RegulatoryCommittee | monitoring | 2026-W18 |
-| AI_CAP | SemiconductorCompute | active | 2026-W27 |
+<div class="engine-grid">
+  <div class="engine-card">
+    <span class="engine-status active">active</span>
+    <strong>IDN_NI</strong>
+    <p>Indonesia nickel policy, RKAB execution, substitution flow, and market transmission engine.</p>
+    <div class="engine-meta">
+      <span>ResourceCountry</span>
+      <span>2026-W18</span>
+    </div>
+  </div>
+  <div class="engine-card">
+    <span class="engine-status active">active</span>
+    <strong>FOMC</strong>
+    <p>FOMC voter, statement, dot plot, dissent, and framework-level consensus gap engine.</p>
+    <div class="engine-meta">
+      <span>CentralBank</span>
+      <span>2026-W25</span>
+    </div>
+  </div>
+  <div class="engine-card">
+    <span class="engine-status monitoring">monitoring</span>
+    <strong>ODAC</strong>
+    <p>FDA ODAC case replay and live-ready advisory committee concern/vote/decision bridge engine.</p>
+    <div class="engine-meta">
+      <span>RegulatoryCommittee</span>
+      <span>2026-W18</span>
+    </div>
+  </div>
+  <div class="engine-card">
+    <span class="engine-status active">active</span>
+    <strong>AI_CAP</strong>
+    <p>Advanced process, CoWoS, HBM, hyperscaler capex, and AI infrastructure scarcity thesis engine.</p>
+    <div class="engine-meta">
+      <span>SemiconductorCompute</span>
+      <span>2026-W27</span>
+    </div>
+  </div>
+</div>
 
 ## Engine Notes
 
 ### IDN_NI: IDN-NI Resource Policy Engine
-
-Indonesia nickel policy, RKAB execution, substitution flow, and market transmission engine.
 
 - Family: `ResourceCountry`
 - Status: `active`
@@ -38,8 +67,6 @@ Indonesia nickel policy, RKAB execution, substitution flow, and market transmiss
 - [ODAC] IDN_NI's institution-path error attribution may map to ODAC vote-to-decision bridge errors.
 
 ### FOMC: FOMC Voter Thesis Engine
-
-FOMC voter, statement, dot plot, dissent, and framework-level consensus gap engine.
 
 - Family: `CentralBank`
 - Status: `active`
@@ -67,8 +94,6 @@ FOMC voter, statement, dot plot, dissent, and framework-level consensus gap engi
 
 ### ODAC: ODAC Minimal Thesis Engine
 
-FDA ODAC case replay and live-ready advisory committee concern/vote/decision bridge engine.
-
 - Family: `RegulatoryCommittee`
 - Status: `monitoring`
 - Packet generated at: `2026-04-28`
@@ -87,8 +112,6 @@ FDA ODAC case replay and live-ready advisory committee concern/vote/decision bri
 - [FOMC] ODAC concern activation can inform FOMC dissent-threshold modeling as a structured salience problem.
 
 ### AI_CAP: AI CAP Thesis Engine
-
-Advanced process, CoWoS, HBM, hyperscaler capex, and AI infrastructure scarcity thesis engine.
 
 - Family: `SemiconductorCompute`
 - Status: `active`
