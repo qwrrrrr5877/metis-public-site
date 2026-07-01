@@ -10,11 +10,16 @@
   </div>
 </div>
 
-<div class="metis-grid three">
+<div class="metis-grid four">
   <a class="metis-card" href="principles/">
     <span class="metis-card-label">Principles</span>
     <strong>Forecasts are objects, not vibes.</strong>
     <p>The operating philosophy behind Metis: calibration discipline, local engine autonomy, and controlled lesson promotion.</p>
+  </a>
+  <a class="metis-card" href="engines/">
+    <span class="metis-card-label">Engines</span>
+    <strong>The public profiles of the Metis engine network.</strong>
+    <p>What each engine studies, avoids, learns, and needs from human review.</p>
   </a>
   <a class="metis-card" href="dashboard/portfolio/">
     <span class="metis-card-label">Portfolio</span>
@@ -80,3 +85,4 @@ The public site is intentionally selective. It shows the framework, public
 patterns, and sanitized progress reports. The private workspace remains the
 system of record for raw ledgers, evidence archives, source files, unresolved
 prediction details, and human review notes.
+

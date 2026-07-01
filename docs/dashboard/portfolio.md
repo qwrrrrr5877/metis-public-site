@@ -4,7 +4,7 @@
 
 <div class="public-note">This is a sanitized portfolio surface. Raw ledgers, source archives, private schemas, and active prediction internals are not included.</div>
 
-_Generated: 2026-07-01 14:09 UTC_
+_Generated: 2026-07-01 14:23 UTC_
 
 <div class="engine-grid">
   <div class="engine-card">

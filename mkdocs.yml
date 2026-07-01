@@ -27,6 +27,12 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Principles: principles.md
+  - Engines:
+      - Overview: engines/index.md
+      - FOMC: engines/fomc.md
+      - AI_CAP: engines/ai-cap.md
+      - ODAC: engines/odac.md
+      - IDN_NI: engines/idn-ni.md
   - Portfolio: dashboard/portfolio.md
   - Framework:
       - Core Overview: metis/core-overview.md
@@ -41,6 +47,8 @@ nav:
       - Weekly 2026-W18: reports/weekly/2026-W18.md
       - Build Log 2026-04-28: reports/build-log/2026-04-28.md
       - Recent FOMC Report: reports/fomc/recent-fomc-report.md
+
+
 
 
 
