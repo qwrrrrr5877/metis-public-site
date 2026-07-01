@@ -24,9 +24,15 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - tables
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 nav:
   - Home: index.md
   - Principles: principles.md
+  - Learning: learning.md
   - Engines:
       - Overview: engines/index.md
       - FOMC: engines/fomc.md
@@ -47,6 +53,8 @@ nav:
       - Weekly 2026-W18: reports/weekly/2026-W18.md
       - Build Log 2026-04-28: reports/build-log/2026-04-28.md
       - Recent FOMC Report: reports/fomc/recent-fomc-report.md
+
+
 
 
 

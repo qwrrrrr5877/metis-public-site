@@ -16,6 +16,11 @@
     <strong>Forecasts are objects, not vibes.</strong>
     <p>The operating philosophy behind Metis: calibration discipline, local engine autonomy, and controlled lesson promotion.</p>
   </a>
+  <a class="metis-card" href="learning/">
+    <span class="metis-card-label">Learning</span>
+    <strong>How observations become lessons, patterns, and core changes.</strong>
+    <p>The loop that keeps engines learning without polluting calibration.</p>
+  </a>
   <a class="metis-card" href="engines/">
     <span class="metis-card-label">Engines</span>
     <strong>The public profiles of the Metis engine network.</strong>
@@ -25,11 +30,6 @@
     <span class="metis-card-label">Portfolio</span>
     <strong>Engine status, public packets, and open review themes.</strong>
     <p>A sanitized view of the active Metis engine network.</p>
-  </a>
-  <a class="metis-card" href="metis/patterns/">
-    <span class="metis-card-label">Patterns</span>
-    <strong>Reusable judgment workflows and failure guards.</strong>
-    <p>Shared methods that engines can adopt without losing domain texture.</p>
   </a>
 </div>
 
@@ -53,6 +53,17 @@
     <p>The public site explains the method; raw evidence, unresolved objects, and schema details stay private.</p>
   </div>
 </div>
+
+## Learning Loop
+
+<div class="learning-strip">
+  <div><span>1</span><strong>Observe</strong><p>Capture hunches, watch objects, and candidate questions before the event.</p></div>
+  <div><span>2</span><strong>Resolve</strong><p>Compare frozen objects against approved evidence without rewriting the claim.</p></div>
+  <div><span>3</span><strong>Compress</strong><p>Turn postmortems into lessons only after context and counterexamples are checked.</p></div>
+  <div><span>4</span><strong>Broadcast</strong><p>Promote durable patterns through core changes and engine-level adoption.</p></div>
+</div>
+
+[Read how the learning loop works](learning/){ .metis-inline-link }
 
 ## Operating Shape
 
@@ -85,4 +96,3 @@ The public site is intentionally selective. It shows the framework, public
 patterns, and sanitized progress reports. The private workspace remains the
 system of record for raw ledgers, evidence archives, source files, unresolved
 prediction details, and human review notes.
-

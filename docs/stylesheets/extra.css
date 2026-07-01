@@ -231,3 +231,51 @@
 
 
 
+
+.learning-strip {
+  border-top: 1px solid var(--metis-line);
+  display: grid;
+  gap: 0;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  margin: 1.2rem 0 .75rem;
+}
+
+.learning-strip > div {
+  border-bottom: 1px solid var(--metis-line);
+  padding: 1rem 1rem 1rem 0;
+}
+
+.learning-strip span {
+  color: var(--metis-accent);
+  display: block;
+  font-size: .72rem;
+  font-weight: 760;
+  margin-bottom: .35rem;
+}
+
+.learning-strip strong {
+  display: block;
+  font-size: 1rem;
+}
+
+.learning-strip p {
+  color: var(--metis-muted);
+  margin: .45rem 0 0;
+}
+
+.metis-inline-link {
+  color: var(--metis-accent) !important;
+  font-weight: 720;
+}
+
+@media screen and (max-width: 900px) {
+  .learning-strip {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .learning-strip {
+    grid-template-columns: 1fr;
+  }
+}
