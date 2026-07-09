@@ -23,13 +23,15 @@ minutes language.
 
 ## Current Public Lesson
 
-The recent April-to-June sequence sharpened a useful distinction: a correct
-narrow dissent-count view can still miss the broader structure of the meeting.
-April showed a layered split around statement-bias language. June showed that
-this topology can disappear cleanly rather than becoming the new default.
+The recent April-to-July minutes sequence sharpened a useful distinction: formal
+vote outcomes and latent internal preference disagreement are not the same
+object. April showed a visible mixed-direction split around statement-bias
+language. June showed a unanimous formal vote whose minutes still revealed
+meaningful communications-preference disagreement.
 
 ## Recent Public Report
 
+- [FOMC Minutes Report: Formal Unanimity, Latent Communications Split](../reports/fomc/2026-07-09-minutes-communications-split/)
 - [Recent FOMC Report: From April Split To June Unanimity](../reports/fomc/recent-fomc-report/)
 
 ## Next Human Review Focus
@@ -40,3 +42,5 @@ The next important review should read the June minutes through three questions:
 - Did participants still prefer different statement-bias language?
 - Does the shorter statement style represent a durable communication shift or a
   one-meeting reset?
+
+

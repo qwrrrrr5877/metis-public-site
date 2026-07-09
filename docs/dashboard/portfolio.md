@@ -4,7 +4,7 @@
 
 <div class="public-note">This is a sanitized portfolio surface. Raw ledgers, source archives, private schemas, and active prediction internals are not included.</div>
 
-_Generated: 2026-07-01 14:48 UTC_
+_Generated: 2026-07-09 12:52 UTC_
 
 <div class="engine-grid">
   <div class="engine-card">
@@ -22,7 +22,7 @@ _Generated: 2026-07-01 14:48 UTC_
     <p>FOMC voter, statement, dot plot, dissent, and framework-level consensus gap engine.</p>
     <div class="engine-meta">
       <span>CentralBank</span>
-      <span>2026-W25</span>
+      <span>2026-W28</span>
     </div>
   </div>
   <div class="engine-card">
@@ -40,7 +40,7 @@ _Generated: 2026-07-01 14:48 UTC_
     <p>Advanced process, CoWoS, HBM, hyperscaler capex, and AI infrastructure scarcity thesis engine.</p>
     <div class="engine-meta">
       <span>SemiconductorCompute</span>
-      <span>2026-W27</span>
+      <span>2026-W28</span>
     </div>
   </div>
 </div>
@@ -70,27 +70,27 @@ _Generated: 2026-07-01 14:48 UTC_
 
 - Family: `CentralBank`
 - Status: `active`
-- Packet generated at: `2026-06-18`
+- Packet generated at: `2026-07-09`
 
 **Notable Updates**
-- June 17 statement-week added three pre-meeting baseline rows plus official resolution evidence, culminating in [private-id] for the unanimous 12-0 hold.
-- The June live-prep cycle created two watch candidates: zero dovish dissent and unanimous-versus-topology, and both were resolved true at statement time without forcing formal prediction registration.
-- The June statement strengthened the voter-profile dissent-threshold lesson and updated the April topology lesson with a unanimous counterexample, reinforcing topology separation rather than recurrence.
-- A statement-day postmortem now records June 17 as a unanimous-hold reset under Warsh's shorter, more declarative communications style.
+- June minutes added [private-id] and confirmed that the 12-0 June statement coexisted with latent internal hawkish pressure and broad preference to remove easing-bias language.
+- The June minutes follow-up refined the system's read from 'unanimous hold reset' to 'formal unanimity with latent communications disagreement,' preserving the statement-day result while deepening the topology lesson.
+- [private-id] now carries a June counterexample and a June-minutes qualifier: formal unanimity should not be read as the absence of internal communications disagreement.
+- FOMC now has an explicit watch-layer note for communications-preference splits, allowing future live cycles to track latent statement-bias disagreement without prematurely expanding the formal prediction schema.
 
 **Open Questions**
-- When the June 2026 minutes are released, do they show genuine internal unanimity or only a unanimous final vote with compressed statement packaging?
-- Does Warsh's shorter statement style persist into the next meeting, or was June a one-meeting debut effect?
-- Should the June unanimous-hold reset eventually promote [private-id] from draft, or do we still need another comparable sample?
+- At the next FOMC meeting, does communications-preference disagreement stay latent, or does it reappear as a formal topology split?
+- Does Warsh's statement compression persist into the next meeting and become a reusable communications regime signal?
+- Should repeated minutes evidence of latent bias-language disagreement eventually justify a first-class schema object beyond vote_topology?
 
 **Needs Human Review**
-- Review the June minutes through the vote-topology lens before adding any new topology or communications lessons.
-- Decide whether the June watch objects should remain watch-only examples or be harvested into a reusable pre-registration discipline note.
+- Review the next live FOMC cycle using both vote-topology and communications-preference watch layers before deciding whether to register a broad object.
+- Decide after one more meeting whether the new communications-preference split watch layer remains enough or should graduate into a formal object family.
 - Keep [private-id] in draft until another minutes cycle tests the quantifier thesis against a fresh meeting.
 
 **Cross-Engine Candidates**
-- [Metis Core] FOMC's June statement cycle is a good example of how watch objects can improve judgment and lessons without creating low-quality calibration samples.
-- [ODAC] The distinction between narrow count objects and broader topology objects may transfer to other engines that model unanimous outcomes versus latent internal splits.
+- [Metis Core] FOMC's June minutes now offer a clean example of why formal observed outcomes and latent internal preference disagreement may need separate watch layers even when a formal schema stays compact.
+- [ODAC] The distinction between formal vote outcome and latent communications-preference disagreement may transfer to committee domains where the visible vote hides meaningful internal preference shaping.
 
 ### ODAC: ODAC Minimal Thesis Engine
 
@@ -115,7 +115,7 @@ _Generated: 2026-07-01 14:48 UTC_
 
 - Family: `SemiconductorCompute`
 - Status: `active`
-- Packet generated at: `2026-06-29`
+- Packet generated at: `2026-07-06`
 
 **Notable Updates**
 - [private-id] was formally updated from [private-probability] to [private-probability] after the CoWoS proxy baseline and approval checks were completed.
